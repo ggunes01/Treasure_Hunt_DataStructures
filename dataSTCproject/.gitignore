@@ -1,0 +1,10 @@
+target/
+*.class
+
+# Local runtime data
+score.txt
+
+# IDE files
+.idea/
+.vscode/
+nbproject/private/
